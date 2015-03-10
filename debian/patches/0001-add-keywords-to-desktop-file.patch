@@ -1,0 +1,21 @@
+From 748130fb5affcdee0ab48b36e9b04b0e95da7625 Mon Sep 17 00:00:00 2001
+From: Paul Elliott <pelliott@blackpatchpanel.com>
+Date: Tue, 10 Mar 2015 11:31:17 -0500
+Subject: add keywords to desktop file
+
+ E desktop-entry-lacks-keywords-entry
+ https://lintian.debian.org/tags/desktop-entry-lacks-keywords-entry.html
+Forwarded: privately
+---
+ data/simplescreenrecorder.desktop | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/data/simplescreenrecorder.desktop b/data/simplescreenrecorder.desktop
+index 0df5355..ca1c09d 100644
+--- a/data/simplescreenrecorder.desktop
++++ b/data/simplescreenrecorder.desktop
+@@ -6,3 +6,4 @@ Icon=simplescreenrecorder
+ Exec=simplescreenrecorder --logfile
+ Terminal=false
+ Categories=AudioVideo;Video;Recorder;Qt;
++Keywords=screen recorder;screencast;live streaming;
