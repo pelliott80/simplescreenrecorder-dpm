@@ -11,6 +11,7 @@ simplescreenrecorder (0.3.3-2) unstable; urgency=medium
   * remove indefinite article from Description field
   * wrap too long line in Description field
   * remove empty debian/postinst
+  * update copyright file
 
  -- Paul Elliott <pelliott@blackpatchpanel.com>  Sat, 07 Mar 2015 16:59:23 -0600
 
