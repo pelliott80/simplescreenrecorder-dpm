@@ -15,6 +15,7 @@ simplescreenrecorder (0.3.3-2) unstable; urgency=medium
   * fix VCS fields
   - VCS fields should point to the source control for the packaging;
   - not the source control for the program.
+  * create debian/watch file.
 
  -- Paul Elliott <pelliott@blackpatchpanel.com>  Sat, 07 Mar 2015 16:59:23 -0600
 
