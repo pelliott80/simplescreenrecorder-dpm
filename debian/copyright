@@ -10,7 +10,7 @@ Files: debian/*
 Copyright: 2012-2014 Maarten Baert <maarten-baert@hotmail.com>
 License: GPL-3.0+
 
-Files: debian/changelog debian/control debian/copyright debian/watch debian/source/format
+Files: debian/changelog debian/control debian/copyright debian/watch debian/source/format debian/manpages
 Copyright: 2012-2014 Maarten Baert <maarten-baert@hotmail.com>
            2014 Paul Elliott <pelliott@blackpatchpanel.com>
 License: GPL-3.0+

@@ -17,6 +17,7 @@ simplescreenrecorder (0.3.3-2) unstable; urgency=medium
   - not the source control for the program.
   * create debian/watch file.
   * add keywords line to desktop file.
+  * add manpages for simplescreenrecorder, ssr-glinject
 
  -- Paul Elliott <pelliott@blackpatchpanel.com>  Sat, 07 Mar 2015 16:59:23 -0600
 
