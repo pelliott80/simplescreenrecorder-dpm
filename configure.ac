@@ -3,7 +3,7 @@ AC_CONFIG_SRCDIR([src/Main.cpp])
 AC_CONFIG_AUX_DIR([build-aux])
 AC_CONFIG_MACRO_DIR([m4])
 AC_CONFIG_HEADERS([config.h])
-AC_CONFIG_FILES([Makefile data/Makefile glinject/Makefile scripts/Makefile src/Makefile])
+AC_CONFIG_FILES([Makefile data/Makefile glinject/Makefile scripts/Makefile src/Makefile simplescreenrecorder.1 ssr-glinject.1])
 
 AM_INIT_AUTOMAKE([foreign subdir-objects -Wall -Werror])
 AM_MAINTAINER_MODE

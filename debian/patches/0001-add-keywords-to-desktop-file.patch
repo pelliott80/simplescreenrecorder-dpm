@@ -1,11 +1,11 @@
-From 748130fb5affcdee0ab48b36e9b04b0e95da7625 Mon Sep 17 00:00:00 2001
+From 3630e4070614bfc0a06b818a0b1a8815082dea6a Mon Sep 17 00:00:00 2001
 From: Paul Elliott <pelliott@blackpatchpanel.com>
 Date: Tue, 10 Mar 2015 11:31:17 -0500
 Subject: add keywords to desktop file
 
  E desktop-entry-lacks-keywords-entry
  https://lintian.debian.org/tags/desktop-entry-lacks-keywords-entry.html
-Forwarded: privately
+Forwarded: https://github.com/MaartenBaert/ssr/issues/317
 ---
  data/simplescreenrecorder.desktop | 1 +
  1 file changed, 1 insertion(+)
